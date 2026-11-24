@@ -1,0 +1,55 @@
+README.md
+  h_7a0d76c76be547 26-38
+.gitignore
+  h_7a0d76c76be547 4-9
+  h_7a0d76c76be547 3
+apps/web/package.json
+  h_7a0d76c76be547 1-30
+package.json
+  h_7a0d76c76be547 12-14
+apps/web/.gitignore
+  h_7a0d76c76be547 1-24
+apps/web/README.md
+  h_7a0d76c76be547 1-75
+apps/web/eslint.config.js
+  h_7a0d76c76be547 1-22
+apps/web/index.html
+  h_7a0d76c76be547 1-13
+apps/web/public/favicon.svg
+  h_7a0d76c76be547 1
+apps/web/public/icons.svg
+  h_7a0d76c76be547 1-24
+apps/web/src/App.css
+  h_7a0d76c76be547 1-184
+apps/web/src/App.tsx
+  h_7a0d76c76be547 1-122
+apps/web/src/assets/react.svg
+  h_7a0d76c76be547 1
+apps/web/src/assets/vite.svg
+  h_7a0d76c76be547 1
+apps/web/src/index.css
+  h_7a0d76c76be547 1-111
+apps/web/src/main.tsx
+  h_7a0d76c76be547 1-10
+apps/web/tsconfig.app.json
+  h_7a0d76c76be547 1-26
+apps/web/tsconfig.json
+  h_7a0d76c76be547 1-7
+apps/web/tsconfig.node.json
+  h_7a0d76c76be547 1-23
+apps/web/vite.config.ts
+  h_7a0d76c76be547 1-7
+pnpm-lock.yaml
+  h_7a0d76c76be547 10-1815
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "2c77be5796bf21ffd5e7b53fd1e62b05e93161cd",
+  "prompts": {},
+  "humans": {
+    "h_7a0d76c76be547": {
+      "author": "ext.wangding15 <ext.wangding15@jd.com>"
+    }
+  }
+}
