@@ -1,0 +1,14 @@
+README.md
+  h_7a0d76c76be547 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "db0cce69fe45b4edd6df4807f7c803da7ee52ec0",
+  "prompts": {},
+  "humans": {
+    "h_7a0d76c76be547": {
+      "author": "ext.wangding15 <ext.wangding15@jd.com>"
+    }
+  }
+}
