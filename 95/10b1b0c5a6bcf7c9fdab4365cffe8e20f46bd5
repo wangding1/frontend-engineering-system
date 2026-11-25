@@ -1,0 +1,36 @@
+packages/eslint-config/react.js
+  h_7a0d76c76be547 1-29
+apps/web/eslint.config.js
+  h_7a0d76c76be547 3
+  s_460dbad54b5652::t_b2103053581e04 1
+packages/eslint-config/package.json
+  h_7a0d76c76be547 1-6,15-25
+  s_460dbad54b5652::t_0c79e93bfb77d6 7-14
+apps/web/package.json
+  h_7a0d76c76be547 19
+packages/eslint-config/base.js
+  h_7a0d76c76be547 1-13
+pnpm-lock.yaml
+  h_7a0d76c76be547 23-25,63-86,550-555,1470-1473
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "9510b1b0c5a6bcf7c9fdab4365cffe8e20f46bd5",
+  "prompts": {},
+  "humans": {
+    "h_7a0d76c76be547": {
+      "author": "ext.wangding15 <ext.wangding15@jd.com>"
+    }
+  },
+  "sessions": {
+    "s_460dbad54b5652": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b7419ee2-f640-4374-a133-19cd679ae401",
+        "model": "composer-2.5"
+      },
+      "human_author": "ext.wangding15 <ext.wangding15@jd.com>"
+    }
+  }
+}
