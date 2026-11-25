@@ -1,0 +1,24 @@
+apps/web/src/main.tsx
+  s_eabbf32c43cda5::t_3b9b96f034d690 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "afce151a7e282384fcc43499efbebc8eeea33886",
+  "prompts": {},
+  "humans": {
+    "h_7a0d76c76be547": {
+      "author": "ext.wangding15 <ext.wangding15@jd.com>"
+    }
+  },
+  "sessions": {
+    "s_eabbf32c43cda5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "86e1c380-fb4b-45e4-a3e8-263839474f7f",
+        "model": "composer-2.5"
+      },
+      "human_author": "ext.wangding15 <ext.wangding15@jd.com>"
+    }
+  }
+}
