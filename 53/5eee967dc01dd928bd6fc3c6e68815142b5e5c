@@ -1,0 +1,20 @@
+.prettierrc.json
+  h_7a0d76c76be547 1-6
+.prettierignore
+  h_7a0d76c76be547 1-4
+package.json
+  h_7a0d76c76be547 17-22
+pnpm-lock.yaml
+  h_7a0d76c76be547 9-13,861-865,1750-1751
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "535eee967dc01dd928bd6fc3c6e68815142b5e5c",
+  "prompts": {},
+  "humans": {
+    "h_7a0d76c76be547": {
+      "author": "ext.wangding15 <ext.wangding15@jd.com>"
+    }
+  }
+}
