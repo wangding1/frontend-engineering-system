@@ -1,0 +1,28 @@
+apps/web/package.json
+  h_7a0d76c76be547 18
+packages/ts-config/base.json
+  h_7a0d76c76be547 1-15
+packages/ts-config/package.json
+  h_7a0d76c76be547 1-10
+apps/web/tsconfig.app.json
+  h_7a0d76c76be547 2
+  h_7a0d76c76be547 11
+packages/ts-config/react-app.json
+  h_7a0d76c76be547 1-12
+apps/web/tsconfig.node.json
+  h_7a0d76c76be547 2
+  h_7a0d76c76be547 5,8
+packages/ts-config/node.json
+  h_7a0d76c76be547 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "dbe84f8c2539ef9b706333ecd88ae26ea9b4149c",
+  "prompts": {},
+  "humans": {
+    "h_7a0d76c76be547": {
+      "author": "ext.wangding15 <ext.wangding15@jd.com>"
+    }
+  }
+}
